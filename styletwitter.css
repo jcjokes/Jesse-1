@@ -1,0 +1,118 @@
+#biglogo{
+    float: left;
+    width: 55%;
+}
+
+h1{
+font-family: TwitterChirpExtendedHeavy, Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+font-size: 64px;
+font-weight: 700;
+line-height: 84px;
+color: rgb(15, 20, 25);
+}
+
+h3{
+    font-family: Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 31px;
+    font-weight: 700;
+    line-height: 36px;
+    color: rgb(15, 20, 25);
+}
+
+a{
+    text-decoration: none;
+}
+#google, #apples, #phone, #signin{
+    font-family: Verdana, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 10px;
+    color: rgb(15, 20, 25);
+    background-color: white;
+    border-radius: 30px;
+    width: 22%;
+    padding: 10px;
+    border: 1px rgb(105, 100, 100) solid;
+    margin: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+#phone{
+    background-color: rgb(62, 155, 236);
+    
+}
+#phone a{
+    color: white;
+    font-weight: bold;
+}
+#apples a{
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+#google a{
+    color: black;
+}
+
+#terms a{
+    color: rgb(62, 155, 236);
+    
+}
+#terms a:hover{
+    border-bottom: 2px rgb(62, 155, 236) solid;
+}
+#terms{
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-bottom: 50px;
+}
+h4{
+    font-family: TwitterChirp, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    color: rgb(15, 20, 25);
+}
+#signin a{
+    font-weight: bold;
+    color: rgb(62, 155, 236);
+}
+#signin:hover{
+    background-color: rgb(217, 237, 252);
+}
+#apples:hover{
+    background-color: rgb(214, 212, 212);
+}
+#tweet{
+    height: 720px;
+}
+
+footer{
+    text-align: center;
+}
+footer a{
+    color: rgb(15, 20, 25);
+    margin: 3px;
+    font-size: 15px;
+}
+footer a:hover{
+    border-bottom: 2px black solid;
+}
+
+#orr{
+    margin-left: 11%;
+}
+.blogo
+    {
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+    .nlogo
+    {
+      position: absolute;
+      top: 60px;
+      left: 80px;
+    }
+
+    
